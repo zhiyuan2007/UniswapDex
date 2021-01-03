@@ -50,7 +50,7 @@
 	"sourceMap": ""
 }
 ```
-进入[在线哈希](http://emn178.github.io/online-tools/keccak_256.html), Input type 选择 hash, 获取输出的哈希值, 保留会在router合约部署中使用
+进入[在线哈希] (此处注意，jquery.com需要翻墙，否则不会hash出结果)(http://emn178.github.io/online-tools/keccak_256.html), Input type 选择 hash, 获取输出的哈希值, 保留会在router合约部署中使用
 
 ![codeHash2](https://img-blog.csdnimg.cn/20201113092107640.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l3ZGh6eGY=,size_16,color_FFFFFF,t_70#pic_center)
 
