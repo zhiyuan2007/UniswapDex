@@ -112,7 +112,7 @@ export const INIT_CODE_HASH = '0x989024026f7dc4bb5d3efa1e563684305a278fe19f590db
 ```
 3. yarn && yarn build
 4. 连同dist目录一块打包提交git (这块interface项目安装sdk依赖必须要是打包好的, 前端不熟只能这样做, 有知道怎么操作的可以留言教我一下)
-5. 修改interface项目的package.json中sdk的依赖配置
+5. 修改interface项目的package.json中sdk的依赖配置（如果使用自己的weth，则需要把整个目录下的原weth合约地址整体替换为自己的weth地址)
 ```
 "@uniswap/sdk": "git://github.com/git用户名/uniswap-sdk.git#v2",
 ``` 
